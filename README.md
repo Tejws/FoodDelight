@@ -93,11 +93,11 @@ AWS_SECRET_ACCESS_KEY=your_aws_secret_access_key</code></pre>
     <ol>
         <li><strong>Start the backend server:</strong></li>
         <pre><code>cd backend
-npm start</code></pre>
+npm start server</code></pre>
         
 <li><strong>Start the frontend server:</strong></li>
         <pre><code>cd frontend
-npm start</code></pre>
+npm run dev</code></pre>
         
 <li><strong>Open your browser:</strong></li>
         <p>Navigate to <a href="http://localhost:3000" target="_blank">http://localhost:3000</a> to view the application.</p>
