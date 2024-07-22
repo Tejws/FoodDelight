@@ -44,7 +44,7 @@
         <li><strong>Frontend:</strong>
             <ul>
                 <li>React.js</li>
-                <li>Redux for state management</li>
+                <li>CSS</li>
             </ul>
         </li>
         <li><strong>Backend:</strong>
@@ -85,19 +85,17 @@ npm install</code></pre>
         <pre><code>MONGO_URI=your_mongo_database_uri
 JWT_SECRET=your_jwt_secret
 STRIPE_SECRET_KEY=your_stripe_secret_key
-AWS_ACCESS_KEY_ID=your_aws_access_key_id
-AWS_SECRET_ACCESS_KEY=your_aws_secret_access_key</code></pre>
     </ol>
     
 <h2 id="usage">Usage</h2>
     <ol>
         <li><strong>Start the backend server:</strong></li>
         <pre><code>cd backend
-npm start</code></pre>
+npm start server</code></pre>
         
  <li><strong>Start the frontend server:</strong></li>
         <pre><code>cd frontend
-npm start</code></pre>
+npm run dev</code></pre>
         
 <li><strong>Open your browser:</strong></li>
         <p>Navigate to <a href="http://localhost:4000" target="_blank">http://localhost:3000</a> to view the application.</p>
