@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>FoodDelight - README</title>
+
 </head>
 <body>
     <h1>FoodDelight</h1>
@@ -44,8 +44,8 @@
         <li><strong>Frontend:</strong>
             <ul>
                 <li>React.js</li>
-                <li>Redux for state management</li>
-            </ul>
+             
+ </ul>
         </li>
         <li><strong>Backend:</strong>
             <ul>
@@ -85,9 +85,8 @@ npm install</code></pre>
         <pre><code>MONGO_URI=your_mongo_database_uri
 JWT_SECRET=your_jwt_secret
 STRIPE_SECRET_KEY=your_stripe_secret_key
-AWS_ACCESS_KEY_ID=your_aws_access_key_id
-AWS_SECRET_ACCESS_KEY=your_aws_secret_access_key</code></pre>
-    </ol>
+
+ </ol>
     
 <h2 id="usage">Usage</h2>
     <ol>
