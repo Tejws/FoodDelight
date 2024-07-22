@@ -1,4 +1,3 @@
-import { isObjectDescriptor } from "create"
 import mongoose from "mongoose"
 
 const foodSchema = new mongoose.Schema({
