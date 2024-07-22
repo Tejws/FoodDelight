@@ -3,6 +3,35 @@ FoodDelight:
 
 FoodDelight is a full-featured restaurant web application built using the MERN stack (MongoDB, Express.js, React, Node.js). This application allows users to explore menus, make reservations, place orders, and manage their profiles. It also provides restaurant administrators with tools to manage menus, orders, reservations, and customer interactions.
 
+Installation
+Clone the repository:
+
+sh
+Copy code
+git clone https://github.com/Tejws/FoodDelight.git
+cd FoodDelight
+Install server dependencies:
+
+sh
+Copy code
+cd backend
+npm install
+Install client dependencies:
+
+sh
+Copy code
+cd ../frontend
+npm install
+Set up environment variables:
+
+Create a .env file in the backend directory.
+Add the following environment variables:
+env
+Copy code
+MONGO_URI=your_mongo_database_uri
+JWT_SECRET=your_jwt_secret
+STRIPE_SECRET_KEY=your_stripe_secret_key
+
 Table of Contents
 Features
 Technology Stack
