@@ -88,17 +88,17 @@ STRIPE_SECRET_KEY=your_stripe_secret_key
 
  </ol>
     
-<h2 id="usage">Usage</h2>
+ <h2 id="usage">Usage</h2>
     <ol>
         <li><strong>Start the backend server:</strong></li>
         <pre><code>cd backend
-npm start server</code></pre>
+npm start</code></pre>
         
-<li><strong>Start the frontend server:</strong></li>
+        <li><strong>Start the frontend server:</strong></li>
         <pre><code>cd frontend
-npm run dev</code></pre>
+npm start</code></pre>
         
-<li><strong>Open your browser:</strong></li>
+ <li><strong>Open your browser:</strong></li>
         <p>Navigate to <a href="http://localhost:4000" target="_blank">http://localhost:3000</a> to view the application.</p>
     </ol>
     
@@ -112,11 +112,19 @@ npm run dev</code></pre>
     <img src="screenshots/admin_dashboard.png" alt="Admin Dashboard">
     -->
     
-<h2 id="contributing">Contributing</h2>
+ <h2 id="contributing">Contributing</h2>
     <p>Contributions are welcome! Please follow these steps to contribute:</p>
     <ol>
         <li>Fork the repository.</li>
         <li>Create a new branch.</li>
+        <li>Make your changes.</li>
+        <li>Submit a pull request.</li>
+    </ol>
+    
+<h2 id="license">License</h2>
+    <p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for more details.</p>
+</body>
+</html>
         <li>Make your changes.</li>
         <li>Submit a pull request.</li>
     </ol>
