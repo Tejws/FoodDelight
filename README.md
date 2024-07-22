@@ -100,7 +100,7 @@ npm start</code></pre>
 npm start</code></pre>
         
 <li><strong>Open your browser:</strong></li>
-        <p>Navigate to <a href="http://localhost:3000" target="_blank">http://localhost:3000</a> to view the application.</p>
+        <p>Navigate to <a href="http://localhost:4000" target="_blank">http://localhost:3000</a> to view the application.</p>
     </ol>
     
 <h2 id="screenshots">Screenshots</h2>
