@@ -32,13 +32,15 @@ Technology Stack:
 
 Frontend:
 React.js
-Redux for state management
+
 Backend:
-Node.js
-Express.js
+Node.js,
+Express.js,
+
 Database:
 MongoDB
+
 Additional Tools:
-Mongoose
-JWT for authentication
+Mongoose,
+JWT for authentication,
 Socket.io for real-time communication
