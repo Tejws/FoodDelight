@@ -44,8 +44,8 @@
         <li><strong>Frontend:</strong>
             <ul>
                 <li>React.js</li>
-             
- </ul>
+                <li>React.js</li>
+        </ul>
         </li>
         <li><strong>Backend:</strong>
             <ul>
