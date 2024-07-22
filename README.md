@@ -85,6 +85,8 @@ npm install</code></pre>
         <pre><code>MONGO_URI=your_mongo_database_uri
 JWT_SECRET=your_jwt_secret
 STRIPE_SECRET_KEY=your_stripe_secret_key
+AWS_ACCESS_KEY_ID=your_aws_access_key_id
+AWS_SECRET_ACCESS_KEY=your_aws_secret_access_key</code></pre>
     </ol>
     
 <h2 id="usage">Usage</h2>
