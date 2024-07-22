@@ -9,7 +9,7 @@
     <h1>FoodDelight</h1>
     <p><strong>FoodDelight</strong> is a full-featured restaurant web application built using the MERN stack (MongoDB, Express.js, React, Node.js). This application allows users to explore menus, make reservations, place orders, and manage their profiles. It also provides restaurant administrators with tools to manage menus, orders, reservations, and customer interactions.</p>
     
-    <h2>Table of Contents</h2>
+<h2>Table of Contents</h2>
     <ul>
         <li><a href="#features">Features</a></li>
         <li><a href="#technology-stack">Technology Stack</a></li>
@@ -20,7 +20,7 @@
         <li><a href="#license">License</a></li>
     </ul>
     
-    <h2 id="features">Features</h2>
+<h2 id="features">Features</h2>
     <h3>User Features</h3>
     <ul>
         <li><strong>Home Page:</strong> Welcoming landing page with featured dishes and special offers.</li>
@@ -30,7 +30,7 @@
         <li><strong>User Profile:</strong> Manage order history, reservations, and personal information.</li>
     </ul>
     
-    <h3>Admin Features</h3>
+<h3>Admin Features</h3>
     <ul>
         <li><strong>Dashboard:</strong> Overview of daily operations including orders, reservations, and feedback.</li>
         <li><strong>Menu Management:</strong> CRUD operations for menu items.</li>
@@ -39,7 +39,7 @@
         <li><strong>Customer Management:</strong> Access customer profiles and handle feedback.</li>
     </ul>
     
-    <h2 id="technology-stack">Technology Stack</h2>
+<h2 id="technology-stack">Technology Stack</h2>
     <ul>
         <li><strong>Frontend:</strong>
             <ul>
@@ -65,22 +65,22 @@
         </li>
     </ul>
     
-    <h2 id="installation">Installation</h2>
+<h2 id="installation">Installation</h2>
     <p>Follow these steps to set up the project locally:</p>
     <ol>
         <li><strong>Clone the repository:</strong></li>
         <pre><code>git clone https://github.com/Tejws/FoodDelight.git
 cd FoodDelight</code></pre>
         
-        <li><strong>Install server dependencies:</strong></li>
-        <pre><code>cd backend
+<li><strong>Install server dependencies:</strong></li>
+<pre><code>cd backend
 npm install</code></pre>
         
-        <li><strong>Install client dependencies:</strong></li>
-        <pre><code>cd ../frontend
+<li><strong>Install client dependencies:</strong></li>
+    <pre><code>cd ../frontend
 npm install</code></pre>
         
-        <li><strong>Set up environment variables:</strong></li>
+<li><strong>Set up environment variables:</strong></li>
         <p>Create a <code>.env</code> file in the <code>backend</code> directory and add the following:</p>
         <pre><code>MONGO_URI=your_mongo_database_uri
 JWT_SECRET=your_jwt_secret
@@ -89,21 +89,21 @@ AWS_ACCESS_KEY_ID=your_aws_access_key_id
 AWS_SECRET_ACCESS_KEY=your_aws_secret_access_key</code></pre>
     </ol>
     
-    <h2 id="usage">Usage</h2>
+<h2 id="usage">Usage</h2>
     <ol>
         <li><strong>Start the backend server:</strong></li>
         <pre><code>cd backend
 npm start</code></pre>
         
-        <li><strong>Start the frontend server:</strong></li>
+<li><strong>Start the frontend server:</strong></li>
         <pre><code>cd frontend
 npm start</code></pre>
         
-        <li><strong>Open your browser:</strong></li>
+<li><strong>Open your browser:</strong></li>
         <p>Navigate to <a href="http://localhost:3000" target="_blank">http://localhost:3000</a> to view the application.</p>
     </ol>
     
-    <h2 id="screenshots">Screenshots</h2>
+<h2 id="screenshots">Screenshots</h2>
     <p>Include screenshots of your application here.</p>
     <!-- Example screenshots
     <img src="screenshots/home.png" alt="Home Page">
@@ -113,7 +113,7 @@ npm start</code></pre>
     <img src="screenshots/admin_dashboard.png" alt="Admin Dashboard">
     -->
     
-    <h2 id="contributing">Contributing</h2>
+<h2 id="contributing">Contributing</h2>
     <p>Contributions are welcome! Please follow these steps to contribute:</p>
     <ol>
         <li>Fork the repository.</li>
@@ -122,7 +122,7 @@ npm start</code></pre>
         <li>Submit a pull request.</li>
     </ol>
     
-    <h2 id="license">License</h2>
+<h2 id="license">License</h2>
     <p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for more details.</p>
 </body>
 </html>
