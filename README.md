@@ -111,6 +111,7 @@ npm run dev</code></pre>
    ![foodDelight3](https://github.com/user-attachments/assets/60d1824f-3b61-4c64-a243-d688434360d9)
     <h1>FOOTER</h1>
    ![foodDelight4](https://github.com/user-attachments/assets/e3ca84cc-158e-4bdb-a26d-4479c299a97b)
+    <h1>Logout and Orders</h1>
    ![foodDelight5](https://github.com/user-attachments/assets/a07e3fd4-990e-4f49-bdf1-9bd030c016f1)
  <h2 id="contributing">Contributing</h2>
     <p>Contributions are welcome! Please follow these steps to contribute:</p>
