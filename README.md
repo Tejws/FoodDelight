@@ -105,26 +105,8 @@ npm run dev</code></pre>
     
 <h2 id="screenshots">Screenshots</h2>
     <p>Include screenshots of your application here.</p>
-   <img src="![foodDelight3](https://github.com/user-attachments/assets/230cd1db-4ebe-4dc8-a451-b4e035ddd38e)alt="Home Page">
-![foodDelight4](https://github.com/user-attachments/assets/01c51670-94e9-495e-b8d7-b57d939fd27c)
-![foodDelight5](https://github.com/user-attachments/assets/6290b19b-f0c5-4fec-ac04-9afc15b9aaac)
-![foodDelight1](https://github.com/user-attachments/assets/0bc86854-50d0-4005-8a12-d8c2ca073fae)
-![foodDelight2](https://github.com/user-attachments/assets/ff971f10-d94e-4ec9-a20d-abc48c026890)
-![foodDelight6](https://github.com/user-attachments/assets/7a3f9384-9901-42dd-bff6-ca763c815209)
-![foodDelightaddress1](https://github.com/user-attachments/assets/f5ab2186-dbe2-4683-b08f-50de1778fdca)
-![foodDelightadmin1](https://github.com/user-attachments/assets/e112439c-7d04-45cf-9c5a-cea67ab4d35f)
-![foodDelightadmin2](https://github.com/user-attachments/assets/99ed3867-bf6c-4b27-9ed4-8132b13c7e84)
-![foodDelightcart1](https://github.com/user-attachments/assets/ffb968c9-ff5a-4217-ae08-a81cf558b642)
-![foodDelightlogin](https://github.com/user-attachments/assets/c231c334-a8d0-4cdf-809f-38c96ece493d)
-![foodDelightcart2](https://github.com/user-attachments/assets/c82009ba-cb5a-4e80-85cb-57b14f0ec5b3)
-![foodDelightcart3](https://github.com/user-attachments/assets/a393c79e-8485-4caa-8521-5569ab7091b8)
-    <!-- Example screenshots
-    <img src="screenshots/home.png" alt="Home Page">
-    <img src="screenshots/menu.png" alt="Menu Page">
-    <img src="screenshots/reservation.png" alt="Reservation Page">
-    <img src="screenshots/order.png" alt="Order Page">
-    <img src="screenshots/admin_dashboard.png" alt="Admin Dashboard">
-    -->
+   ![foodDelight1](https://github.com/user-attachments/assets/9c529c4b-6ad8-4176-a6dc-65b6b06ed41d)
+ 
     
  <h2 id="contributing">Contributing</h2>
     <p>Contributions are welcome! Please follow these steps to contribute:</p>
