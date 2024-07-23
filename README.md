@@ -108,7 +108,7 @@ npm run dev</code></pre>
     
    ![foodDelight1](https://github.com/user-attachments/assets/9c529c4b-6ad8-4176-a6dc-65b6b06ed41d)
    ![foodDelight2](https://github.com/user-attachments/assets/8d2fafee-3d73-4919-8ab4-a582308828a7)
-    
+   ![foodDelight3](https://github.com/user-attachments/assets/60d1824f-3b61-4c64-a243-d688434360d9)
  <h2 id="contributing">Contributing</h2>
     <p>Contributions are welcome! Please follow these steps to contribute:</p>
     <ol>
