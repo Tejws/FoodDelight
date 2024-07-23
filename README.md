@@ -113,6 +113,13 @@ npm run dev</code></pre>
    ![foodDelight4](https://github.com/user-attachments/assets/e3ca84cc-158e-4bdb-a26d-4479c299a97b)
     <h1>Logout and Orders</h1>
    ![foodDelight5](https://github.com/user-attachments/assets/a07e3fd4-990e-4f49-bdf1-9bd030c016f1)
+   
+![foodDelightcart1](https://github.com/user-attachments/assets/2c03fc4b-00e0-4de9-815f-8af4b212caf6)
+![foodDelight6](https://github.com/user-attachments/assets/d80fc5af-bbc1-40c1-b10c-2fa41665d304)
+![foodDelightaddress1](https://github.com/user-attachments/assets/428d12d6-f351-46ed-815b-59c2a6e020e0)
+![foodDelightadmin1](https://github.com/user-attachments/assets/3edf1cec-f603-4a84-88a2-2bc5c538c827)
+![foodDelightadmin2](https://github.com/user-attachments/assets/c2aeeb40-d09e-473d-8bce-6d2268082e6c)
+
  <h2 id="contributing">Contributing</h2>
     <p>Contributions are welcome! Please follow these steps to contribute:</p>
     <ol>
