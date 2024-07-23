@@ -105,7 +105,7 @@ npm run dev</code></pre>
     
 <h2 id="screenshots">Screenshots</h2>
     <p>Include screenshots of your application here.</p>
-![foodDelight3](https://github.com/user-attachments/assets/230cd1db-4ebe-4dc8-a451-b4e035ddd38e)
+   <img src="![foodDelight3](https://github.com/user-attachments/assets/230cd1db-4ebe-4dc8-a451-b4e035ddd38e)
 ![foodDelight4](https://github.com/user-attachments/assets/01c51670-94e9-495e-b8d7-b57d939fd27c)
 ![foodDelight5](https://github.com/user-attachments/assets/6290b19b-f0c5-4fec-ac04-9afc15b9aaac)
 ![foodDelight1](https://github.com/user-attachments/assets/0bc86854-50d0-4005-8a12-d8c2ca073fae)
@@ -117,7 +117,7 @@ npm run dev</code></pre>
 ![foodDelightcart1](https://github.com/user-attachments/assets/ffb968c9-ff5a-4217-ae08-a81cf558b642)
 ![foodDelightlogin](https://github.com/user-attachments/assets/c231c334-a8d0-4cdf-809f-38c96ece493d)
 ![foodDelightcart2](https://github.com/user-attachments/assets/c82009ba-cb5a-4e80-85cb-57b14f0ec5b3)
-![foodDelightcart3](https://github.com/user-attachments/assets/a393c79e-8485-4caa-8521-5569ab7091b8)
+![foodDelightcart3](https://github.com/user-attachments/assets/a393c79e-8485-4caa-8521-5569ab7091b8)alt="Home Page">
     <!-- Example screenshots
     <img src="screenshots/home.png" alt="Home Page">
     <img src="screenshots/menu.png" alt="Menu Page">
