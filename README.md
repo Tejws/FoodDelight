@@ -107,7 +107,7 @@ npm run dev</code></pre>
     <p>Include screenshots of your application here.</p>
     
    ![foodDelight1](https://github.com/user-attachments/assets/9c529c4b-6ad8-4176-a6dc-65b6b06ed41d)
- 
+   ![foodDelight2](https://github.com/user-attachments/assets/8d2fafee-3d73-4919-8ab4-a582308828a7)
     
  <h2 id="contributing">Contributing</h2>
     <p>Contributions are welcome! Please follow these steps to contribute:</p>
