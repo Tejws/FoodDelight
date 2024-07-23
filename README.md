@@ -105,6 +105,7 @@ npm run dev</code></pre>
     
 <h2 id="screenshots">Screenshots</h2>
     <p>Include screenshots of your application here.</p>
+    
    ![foodDelight1](https://github.com/user-attachments/assets/9c529c4b-6ad8-4176-a6dc-65b6b06ed41d)
  
     
