@@ -113,12 +113,19 @@ npm run dev</code></pre>
    ![foodDelight4](https://github.com/user-attachments/assets/e3ca84cc-158e-4bdb-a26d-4479c299a97b)
     <h1>Logout and Orders</h1>
    ![foodDelight5](https://github.com/user-attachments/assets/a07e3fd4-990e-4f49-bdf1-9bd030c016f1)
-   
-![foodDelightcart1](https://github.com/user-attachments/assets/2c03fc4b-00e0-4de9-815f-8af4b212caf6)
-![foodDelight6](https://github.com/user-attachments/assets/d80fc5af-bbc1-40c1-b10c-2fa41665d304)
-![foodDelightaddress1](https://github.com/user-attachments/assets/428d12d6-f351-46ed-815b-59c2a6e020e0)
-![foodDelightadmin1](https://github.com/user-attachments/assets/3edf1cec-f603-4a84-88a2-2bc5c538c827)
-![foodDelightadmin2](https://github.com/user-attachments/assets/c2aeeb40-d09e-473d-8bce-6d2268082e6c)
+    <h1>Cart</h1>
+  ![foodDelightcart1](https://github.com/user-attachments/assets/2c03fc4b-00e0-4de9-815f-8af4b212caf6)
+  ![foodDelight6](https://github.com/user-attachments/assets/d80fc5af-bbc1-40c1-b10c-2fa41665d304)
+    <h1>Delivery information</h1>
+  ![foodDelightaddress1](https://github.com/user-attachments/assets/428d12d6-f351-46ed-815b-59c2a6e020e0)
+     <h1>Admin DashBoard (Where you can add newly arrived items)</h1>
+   ![foodDelightadmin1](https://github.com/user-attachments/assets/3edf1cec-f603-4a84-88a2-2bc5c538c827)
+ ![foodDelightadmin2](https://github.com/user-attachments/assets/c2aeeb40-d09e-473d-8bce-6d2268082e6c)
+    <h1>Login and Register</h1>
+ ![foodDelightlogin](https://github.com/user-attachments/assets/00dd6e64-dfdc-4ca6-9973-3b2889f45e92)
+    <h1>Cart</h1>
+![foodDelightcart2](https://github.com/user-attachments/assets/37f1e095-e06a-4b0e-9120-301d3695e437)
+![foodDelightcart3](https://github.com/user-attachments/assets/806f94cf-4608-471d-a1a7-e7452cfce66a)
 
  <h2 id="contributing">Contributing</h2>
     <p>Contributions are welcome! Please follow these steps to contribute:</p>
