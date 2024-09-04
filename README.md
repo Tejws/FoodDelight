@@ -18,7 +18,7 @@
         <li><a href="#screenshots">Screenshots</a></li>
         <li><a href="#contributing">Contributing</a></li>
         <li><a href="#license">License</a></li>
-    </ul>
+    </ul> 
      
  <h2 id="features">Features</h2>
     <h3>User Features</h3>
