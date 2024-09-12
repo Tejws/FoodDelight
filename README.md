@@ -11,7 +11,7 @@
        
  <h2>Table of Contents</h2>
     <ul>   
-        <li><a href="#features">Features</a></li> 
+        <li><a href="#features">Features</a></li>  
         <li><a href="#technology-stack">Technology Stack</a></li>
         <li><a href="#installation">Installation</a></li>
         <li><a href="#usage">Usage</a></li>  
