@@ -10,7 +10,7 @@
     <p><strong>FoodDelight</strong> is a full-featured restaurant web application built using the MERN stack (MongoDB, Express.js, React, Node.js). This application allows users to explore menus, make reservations, place orders, and manage their profiles. It also provides restaurant administrators with tools to manage menus, orders, reservations, and customer interactions.</p> 
        
  <h2>Table of Contents</h2>
-    <ul>   
+    <ul>     
         <li><a href="#features">Features</a></li>  
         <li><a href="#technology-stack">Technology Stack</a></li>
         <li><a href="#installation">Installation</a></li>
