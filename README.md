@@ -29,7 +29,15 @@
         <li><strong>Order Online:</strong> Online ordering system for takeout and delivery with smooth checkout.</li>
         <li><strong>User Profile:</strong> Manage order history, reservations, and personal information.</li>
     </ul>
+      
+<h2 id="screenshots">Screenshots</h2>
+    <p>Include screenshots of your application here.</p>
     
+   ![Aureal-1](https://github.com/user-attachments/assets/a1b0ab70-a958-4458-bb08-e9a4300eadb9)
+   ![Aureal-2](https://github.com/user-attachments/assets/5eb42274-c331-4759-aeb8-354cd8134272)
+   ![Aureal-3](https://github.com/user-attachments/assets/ec7e736b-d9f7-41f5-8c64-45060abfa394)
+     ![Aureal-4](https://github.com/user-attachments/assets/bd7e3de6-9a6f-4963-a06f-e168399c18a0)
+   
 <h3>Admin Features</h3>
     <ul>
         <li><strong>Dashboard:</strong> Overview of daily operations including orders, reservations, and feedback.</li>
